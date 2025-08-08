@@ -1,11 +1,22 @@
+## 👋 Hey there, I'm Aakarsh Singh
+
+🚀 Engineering student at IIIT Bhopal | 💻 Full Stack Developer | 📊 AI & Data Science Enthusiast  
+
+I’m passionate about building high-performance, user-friendly applications — from **MERN stack web apps** to **machine learning projects** — and I enjoy turning complex problems into elegant solutions.  
+
+---
+
 ### 🧰 Technologies & Skills
 
-#### Languages
-<p>
+#### 🗣 Languages  
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css" height="36" alt="Java, Python, JavaScript, HTML, CSS" />
 </p>
+<p align="center">
+  <em>Java • Python • JavaScript • HTML • CSS</em>
+</p>
 
-#### Frameworks
+#### ⚛ Frameworks & Libraries  
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter" height="36" alt="React, Next.js, Node.js, Express, Flutter" />
 </p>
@@ -13,7 +24,7 @@
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-FF9F1C?style=flat&logo=scikitlearn&logoColor=white" />
 </p>
 
-#### Databases
+#### 🗄 Databases  
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres" height="36" alt="MongoDB, SQL (Postgres)" />
 </p>
@@ -22,7 +33,7 @@
   <img alt="Amazon RDS" src="https://img.shields.io/badge/Amazon%20RDS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900" />
 </p>
 
-#### Tools
+#### 🛠 Tools  
 <p>
   <img src="https://skillicons.dev/icons?i=git,vscode,eclipse" height="36" alt="Git, VS Code, Eclipse" />
 </p>
