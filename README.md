@@ -1,0 +1,47 @@
+## Hi there 👋
+
+<!--
+**aakarsh12x/aakarsh12x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...### 🧰 Technologies & Skills
+
+#### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" height="36" alt="Java, Python, JavaScript, HTML, CSS" />
+</p>
+
+#### Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter" height="36" alt="React, Next.js, Node.js, Express, Flutter" />
+</p>
+<p>
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-FF9F1C?style=flat&logo=scikitlearn&logoColor=white" />
+</p>
+
+#### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" height="36" alt="MongoDB, SQL (Postgres)" />
+</p>
+<p>
+  <img alt="Neon (Postgres)" src="https://img.shields.io/badge/Neon%20(Postgres)-2F679A?style=flat&logo=postgresql&logoColor=white" />
+  <img alt="Amazon RDS" src="https://img.shields.io/badge/Amazon%20RDS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900" />
+</p>
+
+#### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,vscode,eclipse" height="36" alt="Git, VS Code, Eclipse" />
+</p>
+<p>
+  <img alt="STS4" src="https://img.shields.io/badge/Spring%20Tool%20Suite%204-6DB33F?style=flat&logo=spring&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+</p>
+
+-->
