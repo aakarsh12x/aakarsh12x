@@ -3,7 +3,7 @@
 🚀 Engineering student at IIIT Bhopal | 💻 Full Stack Developer | 📊 AI & Data Science Enthusiast  
 
 I’m passionate about building high-performance, user-friendly applications from **MERN stack web apps** to **machine learning projects** and I enjoy turning complex problems into elegant solutions.  
-
+My Portfolio - https://aakarsh12x.github.io/Portfolio/
 ---
 
 ### 🧰 Technologies & Skills
