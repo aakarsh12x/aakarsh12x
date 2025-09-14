@@ -3,7 +3,7 @@
 🚀 Engineering student at IIIT Bhopal | 💻 Full Stack Developer | 📊 AI & Data Science Enthusiast  
 
 I’m passionate about building high-performance, user-friendly applications from **MERN stack web apps** to **machine learning projects** and I enjoy turning complex problems into elegant solutions.  
-My Portfolio - https://aakarsh12x.github.io/Portfolio/
+
 ---
 
 ### 🧰 Technologies & Skills
@@ -44,3 +44,4 @@ My Portfolio - https://aakarsh12x.github.io/Portfolio/
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
 </p>
 <p align="center"><strong>Git • VS Code • Eclipse • Spring Tool Suite 4 • Jupyter • AWS • Postman</strong></p>
+                                                                My Portfolio - https://aakarsh12x.github.io/Portfolio/
