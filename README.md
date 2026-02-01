@@ -4,7 +4,7 @@
 
 ### 🗣 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,dart,html,css" height="38" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,dart,html,css" height="36" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
@@ -21,7 +21,7 @@
 
 ### ⚛ Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter" height="38" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter" height="36" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostGIS-336791?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
 </p>
@@ -40,22 +39,22 @@
 
 ### 🗄 Databases & Caching
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" height="38" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" height="36" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostGIS-2F679A?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostGIS-336791?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon%20RDS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900"/>
   <img src="https://img.shields.io/badge/Neon-2F679A?style=flat&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
 
-### ☁ Cloud, DevOps & Backend Engineering
+### ☁ Cloud, DevOps & Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git" height="38" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git" height="36" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900"/>
@@ -69,7 +68,7 @@
 
 ---
 
-### 🧪 Testing, Performance & Engineering Practices
+### 🧪 Testing, Performance & Practices
 <p align="center">
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/Core%20Web%20Vitals-4285F4?style=flat&logo=google&logoColor=white"/>
