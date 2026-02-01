@@ -1,47 +1,66 @@
-## 👋 Hey there, I'm Aakarsh Singh
+## 🧰 Technologies & Skills
 
-🚀 Engineering student at IIIT Bhopal | 💻 Full Stack Developer | 📊 AI & Data Science Enthusiast  
-
-I’m passionate about building high-performance, user-friendly applications from **MERN stack web apps** to **machine learning projects** and I enjoy turning complex problems into elegant solutions.  
+### 🗣 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,dart,sql,html,css" height="36" />
+</p>
+<p align="center"><strong>
+Java • Python • JavaScript • TypeScript • Dart • SQL • HTML • CSS
+</strong></p>
 
 ---
 
-### 🧰 Technologies & Skills
+### ⚛ Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,mongodb,postgres" height="36" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostGIS-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-FF9F1C?style=flat&logo=scikitlearn&logoColor=white" />
+</p>
+<p align="center"><strong>
+React • React Native • Next.js • Node.js • Express • Flutter • Socket.IO • PostGIS • Framer Motion • scikit-learn
+</strong></p>
 
-#### 🗣 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" height="36" alt="Java, Python, JavaScript, HTML, CSS" />
-</p>
-<p align="center"><strong>Java • Python • JavaScript • HTML • CSS</strong></p>
+---
 
-#### ⚛ Frameworks & Libraries
+### 🗄 Databases & Caching
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter" height="36" alt="React, Next.js, Node.js, Express, Flutter" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" height="36" />
 </p>
 <p align="center">
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-FF9F1C?style=flat&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neon%20(Postgres)-2F679A?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20RDS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900" />
 </p>
-<p align="center"><strong>React • Next.js • Node.js • Express • Flutter • scikit-learn</strong></p>
+<p align="center"><strong>
+MongoDB • PostgreSQL • Redis • PostGIS • Amazon RDS • Neon
+</strong></p>
 
-#### 🗄 Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres" height="36" alt="MongoDB, Postgres" />
-</p>
-<p align="center">
-  <img alt="Neon (Postgres)" src="https://img.shields.io/badge/Neon%20(Postgres)-2F679A?style=flat&logo=postgresql&logoColor=white" />
-  <img alt="Amazon RDS" src="https://img.shields.io/badge/Amazon%20RDS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900" />
-</p>
-<p align="center"><strong>MongoDB • Postgres (Neon) • Amazon RDS</strong></p>
+---
 
-#### 🛠 Tools
+### ☁ Cloud, DevOps & Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,eclipse" height="36" alt="Git, VS Code, Eclipse" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git" height="36" />
 </p>
 <p align="center">
-  <img alt="STS4" src="https://img.shields.io/badge/Spring%20Tool%20Suite%204-6DB33F?style=flat&logo=spring&logoColor=white" />
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900" />
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/API%20Gateway-232F3E?style=flat&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=flat&logo=githubactions&logoColor=white" />
 </p>
-<p align="center"><strong>Git • VS Code • Eclipse • Spring Tool Suite 4 • Jupyter • AWS • Postman</strong></p>
-                                                                
+<p align="center"><strong>
+AWS (EC2, RDS, Lambda, Cognito, API Gateway) • Docker • CI/CD • REST APIs • WebSockets
+</strong></p>
+
+---
+
+### 🧪 Testing, Performance & Engineering Practices
+<p align="center">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/SEO-4CAF50?style=flat" />
+</p>
+<p align="center"><strong>
+Unit & Integration Testing (Jest) • System Optimization • Performance Tuning • Core Web Vitals • SEO
+</strong></p>
