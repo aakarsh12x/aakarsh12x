@@ -78,22 +78,17 @@
 Unit & Integration Testing • Performance Tuning • System Optimization • Core Web Vitals • SEO
 </strong></p>
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakarsh12x&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakarsh12x&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=aakarsh12x&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&starting_year=2024" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aakarsh12x&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aakarsh12x&theme=tokyo-night&hide_border=true&area=true&days=365" width="95%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aakarsh12x&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aakarsh12x&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aakarsh12x&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4"/>
 </p>
