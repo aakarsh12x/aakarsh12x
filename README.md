@@ -88,7 +88,3 @@ Unit & Integration Testing • Performance Tuning • System Optimization • Co
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aakarsh12x&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aakarsh12x&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4"/>
-</p>
