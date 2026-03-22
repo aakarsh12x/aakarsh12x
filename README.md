@@ -60,7 +60,6 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900"/>
   <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white"/>
   <img src="https://img.shields.io/badge/API%20Gateway-232F3E?style=flat&logo=amazonaws&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/AWS%20Cognito-232F3E?style=flat&logo=amazonaws&logoColor=FF9900"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=flat&logo=githubactions&logoColor=white"/>
