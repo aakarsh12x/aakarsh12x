@@ -1,4 +1,4 @@
-<h1 align="center">Aakarsh Singh</h1>
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/57f23338-2713-4e1b-b86d-8a88dc9e7eed" /><h1 align="center">Aakarsh Singh</h1>
 
 <p align="center">
   <b>Founding Engineer · Full-Stack · Systems · IIIT Bhopal '27</b>
@@ -7,16 +7,17 @@
 <p align="center">
   <a href="/cdn-cgi/l/email-protection#c7b4aea9a0afa6a6aca6b5b4aff5ff87a0aaa6aeabe9a4a8aa"><img src="https://img.shields.io/badge/Gmail-singhaakarsh28-D44638?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/aakarsh12x"><img src="https://img.shields.io/badge/GitHub-aakarsh12x-181717?style=flat&logo=github"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/aakarsh-singh-b27a5228b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LeetCode-700%2B%20Solved-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel"/></a>
+  <a href="https://www.aakarshsingh.in/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel"/></a>
 </p>
 
 ---
 
 ## 👤 About Me
 
-I'm a **full-stack & systems engineer** currently serving as **Founding Engineer at Cherry Dating**, where I own the entire codebase - serving **5,000+ daily users** with zero downtime and sub-200ms latency at scale. I'm a pre-final year at **IIIT Bhopal (B.Tech IT, 2023–2027)** with production experience across three companies spanning India and Malaysia.
+I'm a **full-stack & systems engineer** currently serving as **Founding Engineer at Cherry Dating**, where I own the entire backend - from geospatial proximity matching to real-time WebSocket infrastructure - serving **5,000+ daily active users** with zero downtime and sub-200ms latency at scale. I'm a sophomore at **IIIT Bhopal (B.Tech IT, 2023–2027)** with production experience across three companies spanning India and Malaysia.
+
 I gravitate toward hard backend problems: distributed systems, spatial data, real-time communication, and performance engineering. Outside work, I'm a competitive programmer - **CodeChef 3★ (max 1746)**, ranked under 300 globally, with **700+ DSA problems** solved. I don't just write code - I build things that survive real load.
 
 ---
