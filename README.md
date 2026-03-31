@@ -18,7 +18,7 @@
 
 I'm a **full-stack & systems engineer** currently serving as **Founding Engineer at Cherry Dating**, where I own the entire backend — from geospatial proximity matching to real-time WebSocket infrastructure — serving **5,000+ daily active users** with zero downtime and sub-200ms latency at scale. I'm a sophomore at **IIIT Bhopal (B.Tech IT, 2023–2027)** with production experience across three companies spanning India and Malaysia.
 
-I gravitate toward hard backend problems: distributed systems, spatial data, real-time communication, and performance engineering. Outside work, I'm a competitive programmer — **CodeChef 3★ (max 1704)**, ranked under 300 globally, with **700+ DSA problems** solved. I don't just write code — I build things that survive real load.
+I gravitate toward hard backend problems: distributed systems, spatial data, real-time communication, and performance engineering. Outside work, I'm a competitive programmer — **CodeChef 3★ (max 1746)**, ranked under 300 globally, with **700+ DSA problems** solved. I don't just write code — I build things that survive real load.
 
 ---
 
@@ -29,7 +29,7 @@ I gravitate toward hard backend problems: distributed systems, spatial data, rea
   <img src="https://img.shields.io/badge/Daily%20API%20Requests-100K%2B-00BCD4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/p95%20Latency-%3C200ms-00C853?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DSA%20Problems-700%2B-FFA116?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CodeChef-3★%20%7C%201704-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CodeChef-3★%20%7C%201746-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Global%20Rank-%3C300-E91E63?style=for-the-badge"/>
 </p>
 
@@ -134,7 +134,7 @@ I gravitate toward hard backend problems: distributed systems, spatial data, rea
 
 - 🥈 **1st Runner-Up — Google Ideathon** · Built and demoed an AI prototype under strict time constraints
 - ⚡ **700+ DSA problems** solved on LeetCode & CodeChef with consistent performance
-- 🌟 **CodeChef 3★** · Max rating **1704** · Global rank **< 300** on multiple occasions
+- 🌟 **CodeChef 3★** · Max rating **1746** · Global rank **< 300** on multiple occasions
 - 📢 **PR Head, Entrepreneurship Cell** · Led outreach promoting startup events to **1,000+ students**
 - 🎭 **Social Media Lead, Cultural Club** · Ran digital campaigns reaching **5,000+ students**
 
