@@ -1,36 +1,167 @@
-### hey, i'm aakarsh 👾
+<h1 align="center">Aakarsh Singh</h1>
 
-backend-heavy full-stack engineer. sophomore at IIIT Bhopal.  
-founding engineer at **Cherry Dating** — real app, real users, real load.
+<p align="center">
+  <b>Founding Engineer · Full-Stack · Systems · IIIT Bhopal '27</b>
+</p>
 
-i care about systems that actually work: low latency, no downtime, scales when it needs to.  
-less about the stack, more about whether it survives production.
-
----
-
-right now i'm —
-- keeping **5K+ DAUs** happy at sub-200ms on infra i built from scratch
-- routing **100K+ API requests/day** through systems i designed
-- going deep on distributed systems, spatial databases, real-time everything
-
-when i'm not shipping —
-- grinding DSA (700+ problems, CodeChef 3★, rated 1704, ranked top 300 globally)
-- 1st Runner-Up at Google Ideathon
-- PR Head @ E-Cell IIIT Bhopal
+<p align="center">
+  <a href="mailto:singhaakarsh28@gmail.com"><img src="https://img.shields.io/badge/Gmail-singhaakarsh28-D44638?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/aakarsh12x"><img src="https://img.shields.io/badge/GitHub-aakarsh12x-181717?style=flat&logo=github"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-700%2B%20Solved-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel"/></a>
+</p>
 
 ---
 
-**TypeScript · Node.js · PostgreSQL · MongoDB · Redis · React · Next.js · AWS · Docker · PostGIS**
+## 👤 About Me
+
+I'm a **full-stack & systems engineer** currently serving as **Founding Engineer at Cherry Dating**, where I own the entire backend — from geospatial proximity matching to real-time WebSocket infrastructure — serving **5,000+ daily active users** with zero downtime and sub-200ms latency at scale. I'm a sophomore at **IIIT Bhopal (B.Tech IT, 2023–2027)** with production experience across three companies spanning India and Malaysia.
+
+I gravitate toward hard backend problems: distributed systems, spatial data, real-time communication, and performance engineering. Outside work, I'm a competitive programmer — **CodeChef 3★ (max 1704)**, ranked under 300 globally, with **700+ DSA problems** solved. I don't just write code — I build things that survive real load.
 
 ---
 
-[![email](https://img.shields.io/badge/email-singhaakarsh28%40gmail.com-black?style=flat-square)](mailto:singhaakarsh28@gmail.com)
-[![linkedin](https://img.shields.io/badge/linkedin-connect-black?style=flat-square&logo=linkedin)](https://linkedin.com)
-[![leetcode](https://img.shields.io/badge/leetcode-700%2B-black?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com)
-[![portfolio](https://img.shields.io/badge/portfolio-visit-black?style=flat-square)](https://portfolio.com)
+## ⚡ By the Numbers
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DAUs%20Served-5%2C000%2B-7C4DFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Daily%20API%20Requests-100K%2B-00BCD4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/p95%20Latency-%3C200ms-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA%20Problems-700%2B-FFA116?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CodeChef-3★%20%7C%201704-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Global%20Rank-%3C300-E91E63?style=for-the-badge"/>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🗣️ Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,dart,html,css" height="36"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
+</p>
+
+### ⚛️ Frameworks & Libraries
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter" height="36"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+</p>
+
+### 🗄️ Databases & Cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,aws,docker,git" height="36"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostGIS-2F679A?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=awslambda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat&logo=amazonrds&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neon-00E599?style=flat"/>
+</p>
+
+### 🧪 Practices
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20APIs-000000?style=flat"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=flat&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agile-0052CC?style=flat&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Core%20Web%20Vitals-4285F4?style=flat&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SEO-4CAF50?style=flat"/>
+</p>
+
+---
+
+## 💼 Work Experience
+
+### 🔴 Founding Engineer — Cherry Dating, Lucknow
+`Dec 2025 – Present`
+
+- Led backend architecture for a live consumer app with **5,000+ DAUs** — designed and scaled core systems to sustain **sub-200ms response times** under concurrent real-world load with zero downtime post-launch
+- Built cross-platform app with **React Native + Next.js** and MongoDB geospatial indexing for real-time proximity matching across 5–100 km radius on a distributed backend
+- Optimized RESTful APIs via **Node.js/Express** handling **100K+ daily requests** at sub-200ms p95 latency; integrated **Razorpay** subscription flows driving core monetization
+
+---
+
+### 🟡 Software Developer Intern — Aitreya Tech Solutions, Noida
+`Oct 2025 – Dec 2025`
+
+- Engineered real-time chat using **Node.js, Socket.IO, MongoDB** — WebSocket event handling and message queuing supporting **10K+ concurrent users** in production
+- Designed **20+ RESTful API endpoints** and MongoDB schemas, reducing average API response time by **30%**
+- Refactored React codebase via code reviews, improving Core Web Vitals and cutting load time by **25%**
+
+---
+
+### 🟢 Full-Stack Developer — Wvintech Solution, Malaysia
+`Mar 2025 – Aug 2025`
+
+- Delivered a school management platform using **Flutter, Node.js, PostgreSQL**, managing **15K+ records** with secure role-based access across a distributed team
+- Reduced API latency by **35%** on **Amazon RDS** through strategic indexing
+- Orchestrated serverless automation via **AWS Lambda, API Gateway, CI/CD pipelines**, cutting release time by **30%**
+
+---
+
+## 🚀 Projects
+
+| Project | Stack | Impact |
+|---|---|---|
+| **[🗺️ Geospatial Social Platform](#)** | Next.js · Node.js · PostGIS · Socket.IO · JWT | 48% faster spatial lookups · 1K+ location queries/day |
+| **[💸 AI Expense & Investment Tracker](#)** | Next.js · Gemini API · PostgreSQL · Tailwind | 40% load time reduction · 1000+ transactions auto-classified |
+
+---
+
+## 🏆 Achievements
+
+- 🥈 **1st Runner-Up — Google Ideathon** · Built and demoed an AI prototype under strict time constraints
+- ⚡ **700+ DSA problems** solved on LeetCode & CodeChef with consistent performance
+- 🌟 **CodeChef 3★** · Max rating **1725** · Global rank **< 300** on multiple occasions
+- 📢 **PR Head, Entrepreneurship Cell** · Led outreach promoting startup events to **1,000+ students**
+- 🎭 **Social Media Lead, Cultural Club** · Ran digital campaigns reaching **5,000+ students**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aakarsh12x&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aakarsh12x&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aakarsh12x&theme=dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=aaaaaa&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=ffffff&dates=555555" height="150"/>
+  <i>Building systems that survive real load — one commit at a time.</i><br/>
+  <code>IIIT Bhopal · B.Tech Information Technology · 2023–2027</code>
 </p>
