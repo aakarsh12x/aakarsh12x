@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:singhaakarsh28@gmail.com"><img src="https://img.shields.io/badge/Gmail-singhaakarsh28-D44638?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="/cdn-cgi/l/email-protection#c7b4aea9a0afa6a6aca6b5b4aff5ff87a0aaa6aeabe9a4a8aa"><img src="https://img.shields.io/badge/Gmail-singhaakarsh28-D44638?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/aakarsh12x"><img src="https://img.shields.io/badge/GitHub-aakarsh12x-181717?style=flat&logo=github"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LeetCode-700%2B%20Solved-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
@@ -16,9 +16,9 @@
 
 ## 👤 About Me
 
-I'm a **full-stack & systems engineer** currently serving as **Founding Engineer at Cherry Dating**, where I own the entire backend from geospatial proximity matching to real-time WebSocket infrastructure serving **5,000+ daily active users** with zero downtime and sub-200ms latency at scale. I'm a sophomore at **IIIT Bhopal (B.Tech IT, 2023–2027)** with production experience across three companies spanning India and Malaysia.
+I'm a **full-stack & systems engineer** currently serving as **Founding Engineer at Cherry Dating**, where I own the entire backend — from geospatial proximity matching to real-time WebSocket infrastructure — serving **5,000+ daily active users** with zero downtime and sub-200ms latency at scale. I'm a sophomore at **IIIT Bhopal (B.Tech IT, 2023–2027)** with production experience across three companies spanning India and Malaysia.
 
-I gravitate toward hard backend problems: distributed systems, spatial data, real-time communication, and performance engineering. Outside work, I'm a competitive programmer **CodeChef 3★ (max 1746)**, ranked under 300 globally, with **700+ DSA problems** solved. I don't just write code  I build things that survive real load.
+I gravitate toward hard backend problems: distributed systems, spatial data, real-time communication, and performance engineering. Outside work, I'm a competitive programmer — **CodeChef 3★ (max 1746)**, ranked under 300 globally, with **700+ DSA problems** solved. I don't just write code — I build things that survive real load.
 
 ---
 
@@ -101,35 +101,6 @@ I gravitate toward hard backend problems: distributed systems, spatial data, rea
 
 ---
 
-## 💼 Work Experience
-
-### 🔴 Founding Engineer - Cherry Dating, Lucknow
-`Dec 2025 – Present`
-
-- Led backend architecture for a live consumer app with **5,000+ DAUs** — designed and scaled core systems to sustain **sub-200ms response times** under concurrent real-world load with zero downtime post-launch
-- Built cross-platform app with **React Native + Next.js** and MongoDB geospatial indexing for real-time proximity matching across 5–100 km radius on a distributed backend
-- Optimized RESTful APIs via **Node.js/Express** handling **100K+ daily requests** at sub-200ms p95 latency; integrated **Razorpay** subscription flows driving core monetization
-
----
-
-### 🟡 Software Developer Intern - Aitreya Tech Solutions, Noida
-`Oct 2025 – Dec 2025`
-
-- Engineered real-time chat using **Node.js, Socket.IO, MongoDB** — WebSocket event handling and message queuing supporting **10K+ concurrent users** in production
-- Designed **20+ RESTful API endpoints** and MongoDB schemas, reducing average API response time by **30%**
-- Refactored React codebase via code reviews, improving Core Web Vitals and cutting load time by **25%**
-
----
-
-### 🟢 Full-Stack Developer - Wvintech Solution, Malaysia
-`Mar 2025 – Aug 2025`
-
-- Delivered a school management platform using **Flutter, Node.js, PostgreSQL**, managing **15K+ records** with secure role-based access across a distributed team
-- Reduced API latency by **35%** on **Amazon RDS** through strategic indexing
-- Orchestrated serverless automation via **AWS Lambda, API Gateway, CI/CD pipelines**, cutting release time by **30%**
-
----
-
 ## 🏆 Achievements
 
 - 🥈 **1st Runner-Up — Google Ideathon** · Built and demoed an AI prototype under strict time constraints
@@ -154,5 +125,4 @@ I gravitate toward hard backend problems: distributed systems, spatial data, rea
 
 <p align="center">
   <i>Building systems that survive real load — one commit at a time.</i><br/>
-  <code>IIIT Bhopal · B.Tech Information Technology · 2023–2027</code>
-</p>
+  <code>IIIT Bhopal · B.Tech Inf
