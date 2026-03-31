@@ -16,9 +16,9 @@
 
 ## 👤 About Me
 
-I'm a **full-stack & systems engineer** currently serving as **Founding Engineer at Cherry Dating**, where I own the entire backend — from geospatial proximity matching to real-time WebSocket infrastructure — serving **5,000+ daily active users** with zero downtime and sub-200ms latency at scale. I'm a sophomore at **IIIT Bhopal (B.Tech IT, 2023–2027)** with production experience across three companies spanning India and Malaysia.
+I'm a **full-stack & systems engineer** currently serving as **Founding Engineer at Cherry Dating**, where I own the entire backend from geospatial proximity matching to real-time WebSocket infrastructure — serving **5,000+ daily active users** with zero downtime and sub-200ms latency at scale. I'm a sophomore at **IIIT Bhopal (B.Tech IT, 2023–2027)** with production experience across three companies spanning India and Malaysia.
 
-I gravitate toward hard backend problems: distributed systems, spatial data, real-time communication, and performance engineering. Outside work, I'm a competitive programmer — **CodeChef 3★ (max 1746)**, ranked under 300 globally, with **700+ DSA problems** solved. I don't just write code — I build things that survive real load.
+I gravitate toward hard backend problems: distributed systems, spatial data, real-time communication, and performance engineering. Outside work, I'm a competitive programmer **CodeChef 3★ (max 1746)**, ranked under 300 globally, with **700+ DSA problems** solved. I don't just write code  I build things that survive real load.
 
 ---
 
@@ -103,7 +103,7 @@ I gravitate toward hard backend problems: distributed systems, spatial data, rea
 
 ## 💼 Work Experience
 
-### 🔴 Founding Engineer — Cherry Dating, Lucknow
+### 🔴 Founding Engineer - Cherry Dating, Lucknow
 `Dec 2025 – Present`
 
 - Led backend architecture for a live consumer app with **5,000+ DAUs** — designed and scaled core systems to sustain **sub-200ms response times** under concurrent real-world load with zero downtime post-launch
@@ -112,7 +112,7 @@ I gravitate toward hard backend problems: distributed systems, spatial data, rea
 
 ---
 
-### 🟡 Software Developer Intern — Aitreya Tech Solutions, Noida
+### 🟡 Software Developer Intern - Aitreya Tech Solutions, Noida
 `Oct 2025 – Dec 2025`
 
 - Engineered real-time chat using **Node.js, Socket.IO, MongoDB** — WebSocket event handling and message queuing supporting **10K+ concurrent users** in production
@@ -121,7 +121,7 @@ I gravitate toward hard backend problems: distributed systems, spatial data, rea
 
 ---
 
-### 🟢 Full-Stack Developer — Wvintech Solution, Malaysia
+### 🟢 Full-Stack Developer - Wvintech Solution, Malaysia
 `Mar 2025 – Aug 2025`
 
 - Delivered a school management platform using **Flutter, Node.js, PostgreSQL**, managing **15K+ records** with secure role-based access across a distributed team
