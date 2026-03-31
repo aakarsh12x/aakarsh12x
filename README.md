@@ -130,15 +130,6 @@ I gravitate toward hard backend problems: distributed systems, spatial data, rea
 
 ---
 
-## 🚀 Projects
-
-| Project | Stack | Impact |
-|---|---|---|
-| **[🗺️ Geospatial Social Platform](#)** | Next.js · Node.js · PostGIS · Socket.IO · JWT | 48% faster spatial lookups · 1K+ location queries/day |
-| **[💸 AI Expense & Investment Tracker](#)** | Next.js · Gemini API · PostgreSQL · Tailwind | 40% load time reduction · 1000+ transactions auto-classified |
-
----
-
 ## 🏆 Achievements
 
 - 🥈 **1st Runner-Up — Google Ideathon** · Built and demoed an AI prototype under strict time constraints
