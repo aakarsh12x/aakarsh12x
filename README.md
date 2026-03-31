@@ -1,4 +1,4 @@
-<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/57f23338-2713-4e1b-b86d-8a88dc9e7eed" /><h1 align="center">Aakarsh Singh</h1>
+<h1 align="center">Aakarsh Singh</h1>
 
 <p align="center">
   <b>Founding Engineer · Full-Stack · Systems · IIIT Bhopal '27</b>
