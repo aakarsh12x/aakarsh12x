@@ -143,7 +143,7 @@ I gravitate toward hard backend problems: distributed systems, spatial data, rea
 
 - 🥈 **1st Runner-Up — Google Ideathon** · Built and demoed an AI prototype under strict time constraints
 - ⚡ **700+ DSA problems** solved on LeetCode & CodeChef with consistent performance
-- 🌟 **CodeChef 3★** · Max rating **1725** · Global rank **< 300** on multiple occasions
+- 🌟 **CodeChef 3★** · Max rating **1704** · Global rank **< 300** on multiple occasions
 - 📢 **PR Head, Entrepreneurship Cell** · Led outreach promoting startup events to **1,000+ students**
 - 🎭 **Social Media Lead, Cultural Club** · Ran digital campaigns reaching **5,000+ students**
 
