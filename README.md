@@ -125,4 +125,4 @@ I gravitate toward hard backend problems: distributed systems, spatial data, rea
 
 <p align="center">
   <i>Building systems that survive real load - one commit at a time.</i><br/>
-  <code>IIIT Bhopal · B.Tech Inf
+  <code>IIIT Bhopal · B.Tech in Information Technology
