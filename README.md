@@ -1,7 +1,7 @@
 <h1 align="center">Aakarsh Singh</h1>
 
 <p align="center">
-  <b>Founding Engineer · Full-Stack · Systems · IIIT Bhopal '27</b>
+  <b> Full-Stack · Systems · IIIT Bhopal '27</b>
 </p>
 
 <p align="center">
