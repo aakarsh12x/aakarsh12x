@@ -18,7 +18,7 @@
 
 I'm a **full-stack & systems engineer** currently serving as **Founding Engineer at Cherry Dating**, where I own the entire backend - from geospatial proximity matching to real-time WebSocket infrastructure - serving **10000+ daily users** with zero downtime and sub-200ms latency at scale. I'm a pre final year at **IIIT Bhopal (B.Tech IT, 2023–2027)** with production experience across three companies spanning India and Malaysia.
 
-I gravitate toward hard backend problems: distributed systems, spatial data, real-time communication, and performance engineering. Outside work, I'm a competitive programmer - **CodeChef 3★ (max 1746)**, ranked under 300 globally, with **700+ DSA problems** solved. I don't just write code - I build things that survive real load.
+I gravitate toward hard backend problems: distributed systems, spatial data, real-time communication, and performance engineering. Outside work, I'm a competitive programmer - **CodeChef 3★ (max 1774)**, ranked under 300 globally on multiple occasions, with **700+ DSA problems** solved. I don't just write code - I build things that survive real load.
 
 ---
 
