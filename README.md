@@ -1,8 +1,5 @@
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Aakarsh%20Singh&fontSize=55&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20•%20Systems%20•%20IIIT%20Bhopal%20'27&descAlignY=58&descSize=18&descColor=CBD5E1&color=0:111827,100:9CA3AF"
-    width="100%"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aakarsh12x&theme=github_dark" />
 </p>
 
 <p align="center">
