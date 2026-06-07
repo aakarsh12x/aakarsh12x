@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <sub>Serving 10,000+ users daily through production systems.</sub>
+  <sub>Serving 25,000+ users daily through production systems.</sub>
 </p>
 
 <p align="center">
@@ -28,9 +28,50 @@
 
 ##  About Me
 
-I'm a **full-stack & systems engineer** currently serving as **Founding Engineer at Cherry Dating**, where I own the entire backend - from geospatial proximity matching to real-time WebSocket infrastructure - serving **10000+ daily users** with zero downtime and sub-200ms latency at scale. I'm a pre final year at **IIIT Bhopal (B.Tech IT, 2023–2027)** with production experience across three companies spanning India and Malaysia.
+````md
+## About Me
 
-I gravitate toward hard backend problems: distributed systems, spatial data, real-time communication, and performance engineering. Outside work, I'm a competitive programmer - **CodeChef 3★ (max 1774)**, ranked under 300 globally on multiple occasions, with **700+ DSA problems** solved. I don't just write code - I build things that survive real load.
+<div align="center">
+
+```text
+Founding Engineer @ Cherry Dating
+````
+
+</div>
+
+I built **Cherry Dating end-to-end**, architecting and shipping everything from the user-facing experience to the backend infrastructure powering the platform today.
+
+Over the last **1.3+ years**, I've worked across the full stack, building geospatial matching systems, real-time communication infrastructure, scalable APIs, cloud-native deployments, and high-performance backend services serving **25,000+ users** in production.
+
+Currently pursuing **B.Tech in Information Technology at IIIT Bhopal (2023–2027)**, I'm most interested in distributed systems, backend architecture, performance engineering, databases, and real-time applications.
+
+Outside of engineering, I'm an active competitive programmer with **700+ solved DSA problems**, a **CodeChef 3★ rating (1774 max)**, and multiple global rankings under 300.
+
+I enjoy building products that solve real problems and systems that continue working when traffic arrives.
+
+---
+
+## By The Numbers
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Users_Served-25K+-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API_Requests-100K+%2Fday-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/p95_Latency-%3C200ms-111111?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-1.3+_Years-1F2937?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA_Problems-700+-1F2937?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CodeChef-3★_(1774)-1F2937?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Full_Stack_Engineer-374151?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Distributed_Systems-374151?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Global_Rank-Top_300-374151?style=for-the-badge"/>
+</p>
+```
+
 
 ---
 
