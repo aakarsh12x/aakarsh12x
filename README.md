@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=50&pause=999999&color=FFFFFF&center=true&vCenter=true&width=1000&height=100&lines=%3E+Aakarsh+Singh_" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=50&pause=999999&color=E5E7EB&center=true&vCenter=true&width=1000&height=100&lines=Aakarsh+Singh" />
 </p>
 
 <p align="center">
+  <code>Founding Engineer</code>
   <code>Distributed Systems</code>
   <code>Real-Time Infrastructure</code>
-  <code>Backend Engineering</code>
 </p>
 
 <p align="center">
-  <img width="850" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,1,2,3,4" />
+  <sub>Serving 10,000+ users daily through production systems.</sub>
 </p>
 
 <p align="center">
