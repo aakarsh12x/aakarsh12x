@@ -51,7 +51,7 @@ I build software with a simple goal: create systems that remain reliable, scalab
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-1.3+_Years-1F2937?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DSA_Problems-700+-1F2937?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA_Problems-800+-1F2937?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CodeChef-3★_(1774)-1F2937?style=for-the-badge"/>
 </p>
 
@@ -61,21 +61,6 @@ I build software with a simple goal: create systems that remain reliable, scalab
   <img src="https://img.shields.io/badge/Global_Rank-Top_300-374151?style=for-the-badge"/>
 </p>
 ```
-
-
----
-
-##  By the Numbers
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DAUs%20Served-5%2C000%2B-7C4DFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Daily%20API%20Requests-100K%2B-00BCD4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/p95%20Latency-%3C200ms-00C853?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DSA%20Problems-700%2B-FFA116?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CodeChef-3★%20%7C%201746-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Global%20Rank-%3C300-E91E63?style=for-the-badge"/>
-</p>
-
 ---
 
 ##  Tech Stack
