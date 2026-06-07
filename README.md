@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=0:111827,100:9CA3AF&text=Aakarsh%20Singh&fontColor=ffffff&fontSize=55" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=Aakarsh+Singh" />
+</p>
+
+<p align="center">
+<code>Founding Engineer @ Cherry Dating</code> •
+<code>IIIT Bhopal '27</code> •
+<code>Backend Systems</code>
 </p>
 
 <p align="center">
