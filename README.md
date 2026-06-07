@@ -3,7 +3,7 @@
     src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Aakarsh%20Singh&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20•%20Systems%20•%20IIIT%20Bhopal%20'27&descAlignY=58&descSize=18&descColor=C0C0C0&color=0:0D1117,25:161B22,50:1F2937,75:111827,100:000000"
     width="100%"
   />
-</p>>
+</p>
 
 <p align="center">
   <a href="/cdn-cgi/l/email-protection#c7b4aea9a0afa6a6aca6b5b4aff5ff87a0aaa6aeabe9a4a8aa"><img src="https://img.shields.io/badge/Gmail-singhaakarsh28-D44638?style=flat&logo=gmail&logoColor=white"/></a>
