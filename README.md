@@ -26,28 +26,18 @@
 
 ---
 
-##  About Me
-
-````md
 ## About Me
 
-<div align="center">
+I'm a **Full-Stack & Systems Engineer** and currently a **Founding Engineer at Cherry Dating**, where I built and scaled the platform end-to-end, from the user-facing applications to the backend infrastructure powering thousands of users in production.
 
-```text
-Founding Engineer @ Cherry Dating
-````
+Over the last **1.3+ years**, I've worked across startups in India and Malaysia, building products involving real-time communication, geospatial systems, scalable APIs, cloud infrastructure, and modern web applications. My primary interests lie in **backend engineering, distributed systems, databases, performance optimization, and large-scale system design**.
 
-</div>
+Currently pursuing **B.Tech in Information Technology at IIIT Bhopal (2023–2027)**, I enjoy solving complex engineering challenges and turning ideas into production-ready products. Whether it's designing a database schema, optimizing API latency, building real-time systems, or shipping polished frontend experiences, I enjoy owning the entire development lifecycle.
 
-I built **Cherry Dating end-to-end**, architecting and shipping everything from the user-facing experience to the backend infrastructure powering the platform today.
+Outside of work, I'm an active competitive programmer with **700+ solved DSA problems**, a **CodeChef 3★ rating (max 1774)**, and multiple global rankings under 300.
 
-Over the last **1.3+ years**, I've worked across the full stack, building geospatial matching systems, real-time communication infrastructure, scalable APIs, cloud-native deployments, and high-performance backend services serving **25,000+ users** in production.
+I build software with a simple goal: create systems that remain reliable, scalable, and maintainable as they grow.
 
-Currently pursuing **B.Tech in Information Technology at IIIT Bhopal (2023–2027)**, I'm most interested in distributed systems, backend architecture, performance engineering, databases, and real-time applications.
-
-Outside of engineering, I'm an active competitive programmer with **700+ solved DSA problems**, a **CodeChef 3★ rating (1774 max)**, and multiple global rankings under 300.
-
-I enjoy building products that solve real problems and systems that continue working when traffic arrives.
 
 ---
 
