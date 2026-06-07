@@ -6,12 +6,22 @@
 </p>
 
 <p align="center">
-  <a href="mailto:singhaakarsh28@gmail.com"><img src="https://img.shields.io/badge/Gmail-singhaakarsh28-D44638?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/aakarsh12x"><img src="https://img.shields.io/badge/GitHub-aakarsh12x-181717?style=flat&logo=github"/></a>
-  <a href="https://www.linkedin.com/in/aakarsh-singh-b27a5228b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-700%2B%20Solved-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.aakarshsingh.in/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel"/></a>
+  <a href="mailto:singhaakarsh28@gmail.com"><img src="https://img.shields.io/badge/Gmail-singhaakarsh28-D44638?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/aakarsh12x"><img src="https://img.shields.io/badge/GitHub-aakarsh12x-181717?style=flat-square&logo=github"/></a>
+  <a href="https://www.linkedin.com/in/aakarsh-singh-b27a5228b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-700%2B%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.aakarshsingh.in/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel"/></a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aakarsh12x&style=flat-square&color=grey"/>
+</p>
+
+---
+
+<h2>
+  <img src="https://img.shields.io/badge/About-111111?style=for-the-badge&logo=vercel&logoColor=white">
+</h2>
 
 ---
 
