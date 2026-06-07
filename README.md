@@ -1,11 +1,17 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=Aakarsh+Singh" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=42&pause=3000&color=E5E7EB&center=true&vCenter=true&width=900&height=70&lines=Aakarsh+Singh" />
 </p>
 
 <p align="center">
-<code>Founding Engineer @ Cherry Dating</code> •
-<code>IIIT Bhopal '27</code> •
-<code>Backend Systems</code>
+  <code>Founding Engineer @ Cherry Dating</code>
+  &nbsp;•&nbsp;
+  <code>Systems Engineer</code>
+  &nbsp;•&nbsp;
+  <code>IIIT Bhopal '27</code>
+</p>
+
+<p align="center">
+  <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=aakarsh12x&bg_color=0d1117&color=9ca3af&line=6b7280&point=d1d5db&hide_border=true&area=true" />
 </p>
 
 <p align="center">
