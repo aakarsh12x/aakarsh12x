@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=aakarsh12x&bg_color=0d1117&color=9ca3af&line=6b7280&point=d1d5db&hide_border=true&area=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aakarsh12x&theme=github_dark" />  
 </p>
 
 <p align="center">
@@ -124,14 +124,6 @@ I build software with a simple goal: create systems that remain reliable, scalab
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/Core%20Web%20Vitals-4285F4?style=flat&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/SEO-4CAF50?style=flat"/>
-</p>
-
----
-
-##  GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aakarsh12x&theme=github_dark" />
 </p>
 
 ---
