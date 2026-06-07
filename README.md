@@ -1,7 +1,8 @@
-<h1 align="center">Aakarsh Singh</h1>
-
 <p align="center">
-  <b> Full-Stack · Systems · IIIT Bhopal '27</b>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Aakarsh%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20•%20Systems%20•%20IIIT%20Bhopal%20'27&descAlignY=58&descSize=18"
+    width="100%"
+  />
 </p>
 
 <p align="center">
