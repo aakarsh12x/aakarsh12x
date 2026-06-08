@@ -61,7 +61,6 @@ I build software with a simple goal: create systems that remain reliable, scalab
   <img src="https://img.shields.io/badge/Focus-Distributed_Systems-374151?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Global_Rank-Top_300-374151?style=for-the-badge"/>
 </p>
----
 
 ##  Tech Stack
 
