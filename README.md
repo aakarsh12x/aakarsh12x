@@ -14,8 +14,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aakarsh12x&theme=github_dark" />  
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aakarsh12x&theme=nord_dark" /></p>
 
 <p align="center">
   <a href="/cdn-cgi/l/email-protection#c7b4aea9a0afa6a6aca6b5b4aff5ff87a0aaa6aeabe9a4a8aa"><img src="https://img.shields.io/badge/Gmail-singhaakarsh28-D44638?style=flat&logo=gmail&logoColor=white"/></a>
